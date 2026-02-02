@@ -82,7 +82,7 @@ app.post("/recipe", async (req, res) => {
   }
 });
 
-//app.listen(3001, () => {
-  //console.log("Backend server running on http://localhost:3001");
-//});
+app.listen(3001, () => {
+  console.log("Backend server running on http://localhost:3001");
+});
 export default app;
