@@ -18,13 +18,6 @@ Implementing Component-Based Architecture for clean, reusable code.
 Integrating and fetching data from the Gemini Api.
 Deploying a production-ready application via Vercel.
 
-Getting Started
-To run this project locally, follow these steps:
-
-1. Clone the repo: git clone
-2. Install dependencies: npm install
-3. Start the app: npm start
-
 App Preview:
 <img width="959" height="477" alt="image" src="https://github.com/user-attachments/assets/9bd4b7c1-4a2a-4b65-b886-72035bdfda50" />
 
