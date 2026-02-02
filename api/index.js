@@ -22,7 +22,7 @@ app.use(cors());
 app.use(express.json());
 
 
-app.post("/recipe", async (req, res) => {
+app.post("/api/recipe", async (req, res) => {
   if (!process.env.GOOGLE_API_KEY) {
     return res.status(500).json({ error: "Server is missing the Google API Key." });
   }
