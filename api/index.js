@@ -27,6 +27,7 @@ app.post("/api/recipe", async (req, res) => {
     return res.status(500).json({ error: "Server is missing the Google API Key." });
   }
 
+
   try {
     const { ingredients } = req.body;
 
