@@ -1,6 +1,6 @@
 Chef Gemini
 A modern minimilistic, responsive React application that allows users to add a list of ingredients then have the gemini API send a response.
-[chefhuggingface.vercel.app]
+[chefgemini.vercel.app]
 
 Features
 Real Time Ai Api responese to what every ingredients you have.
